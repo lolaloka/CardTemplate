@@ -1,0 +1,12 @@
+.card {
+  border: 1px solid #e07f88;
+  border-radius: 0;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+/* img {
+  height: 350px;
+} */
+.head {
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}

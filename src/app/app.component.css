@@ -1,0 +1,6 @@
+/*
+  css here affects only html in app.component.html
+*/
+body {
+  border: 10px solid red; /* will not work  */
+}
